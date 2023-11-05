@@ -1,2 +1,2 @@
-### Olá, eu sou Daniel Vitório Augusto 👋
+### Olá, mundo! Eu sou Daniel Vitório Augusto. 👋🌏
 
