@@ -18,7 +18,7 @@
 
 📚 Atualmente, estou expandindo meus conhecimentos em Flutter e AWS, sempre buscando novas tecnologias e desafios para aprimorar minhas habilidades.
 
-💻 Adoro transformar ideias em realidade através do código e estou sempre aberto a colaborar em projetos interessantes. Vamos construir algo incrível juntos!</p>
+💻 Adoro transformar ideias em realidade através do código e estou sempre aberto a colaborar em projetos interessantes.</p>
 
 ###
 
