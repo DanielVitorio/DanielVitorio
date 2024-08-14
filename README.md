@@ -14,7 +14,7 @@
 
 <h4 align="left">CURIOSIDADE</h4>
 
-<p align="left">👋 Olá! Sou um desenvolvedor apaixonado por programação desde os 15 anos. Ao longo dos anos, me especializei em JavaScript e PHP, utilizando frequentemente a biblioteca React e o framework Laravel para criar aplicações incríveis. 🚀
+<p align="left">👋 Olá! Sou um desenvolvedor apaixonado por programação desde os 15 anos. Ao longo dos anos, me especializei em JavaScript e PHP, utilizando frequentemente a biblioteca React-Native e o framework Laravel para criar aplicações incríveis. 🚀
 
 📚 Atualmente, estou expandindo meus conhecimentos em Flutter e AWS, sempre buscando novas tecnologias e desafios para aprimorar minhas habilidades.
 
