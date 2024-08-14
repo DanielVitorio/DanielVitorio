@@ -12,18 +12,18 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielVitorio&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielVitorio&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&custom_title=M%C3%A9dias%20de%20Linguagens%20em%20Commits" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<p align="center">👋 Olá! Sou um desenvolvedor apaixonado por programação desde os 15 anos. Ao longo dos anos, me especializei em JavaScript e PHP, utilizando frequentemente a biblioteca React e o framework Laravel para criar aplicações incríveis. 🚀
+<p align="left">👋 Olá! Sou um desenvolvedor apaixonado por programação desde os 15 anos. Ao longo dos anos, me especializei em JavaScript e PHP, utilizando frequentemente a biblioteca React e o framework Laravel para criar aplicações incríveis. 🚀
 
 📚 Atualmente, estou expandindo meus conhecimentos em Flutter e AWS, sempre buscando novas tecnologias e desafios para aprimorar minhas habilidades.
 
 💻 Adoro transformar ideias em realidade através do código e estou sempre aberto a colaborar em projetos interessantes. Vamos construir algo incrível juntos!</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DanielVitorio&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielVitorio&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&custom_title=M%C3%A9dias%20de%20Linguagens%20em%20Commits" height="150" alt="languages graph"  />
+</div>
 
 ###
 
