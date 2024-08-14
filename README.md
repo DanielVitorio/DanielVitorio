@@ -12,7 +12,7 @@
 
 ###
 
-<h4 align="center">CURIOSIDADE</h4>
+<h4 align="left">CURIOSIDADE</h4>
 
 <p align="left">👋 Olá! Sou um desenvolvedor apaixonado por programação desde os 15 anos. Ao longo dos anos, me especializei em JavaScript e PHP, utilizando frequentemente a biblioteca React e o framework Laravel para criar aplicações incríveis. 🚀
 
