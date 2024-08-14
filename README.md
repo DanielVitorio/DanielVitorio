@@ -19,6 +19,14 @@
 
 ###
 
+<p align="left">👋 Olá! Sou um desenvolvedor apaixonado por programação desde os 15 anos. Ao longo dos anos, me especializei em JavaScript e PHP, utilizando frequentemente a biblioteca React e o framework Laravel para criar aplicações incríveis. 🚀
+
+📚 Atualmente, estou expandindo meus conhecimentos em Flutter e AWS, sempre buscando novas tecnologias e desafios para aprimorar minhas habilidades.
+
+💻 Adoro transformar ideias em realidade através do código e estou sempre aberto a colaborar em projetos interessantes. Vamos construir algo incrível juntos!</p>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
