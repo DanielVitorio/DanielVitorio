@@ -107,28 +107,3 @@
 
 ###
 
-
-
-<style>
-.typewriter {
-  font-family: monospace; /* Escolha uma fonte adequada */
-  display: inline-block;
-  overflow: hidden; /* Ocultar texto que está fora da área visível */
-  border-right: 0.15em solid black; /* Simula o cursor */
-  white-space: nowrap; /* Impede a quebra de linha */
-  margin: 0 auto; /* Centraliza */
-  letter-spacing: 0.15em; /* Espaçamento entre letras */
-  animation: typing 3.5s steps(30, end), blink-caret 0.75s step-end infinite;
-}
-
-@keyframes typing {
-  from { width: 0; }
-  to { width: 100%; }
-}
-
-@keyframes blink-caret {
-  from, to { border-color: transparent; }
-  50% { border-color: black; }
-}
-</style>
-
