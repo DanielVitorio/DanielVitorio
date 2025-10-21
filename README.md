@@ -6,10 +6,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/DanielVitorio/count.svg?"  />
-</div>
-
 ###
 
 <h4 align="left">CURIOSIDADE</h4>
