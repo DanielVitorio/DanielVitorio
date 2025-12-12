@@ -1,16 +1,23 @@
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=DanielVitorio.DanielVitorio&"  />
-</div>
-
-###
-
-<div align="center">
   <img height="" src="https://github.com/DanielVitorio/DanielVitorio/blob/main/.github/banner.png"  />
 </div>
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=DanielVitorio.DanielVitorio&"  />
+</div>
+
+###
+
 <p align="left">👋 Hello! I'm Daniel, a developer who loves turning ideas into modern, functional, and lively applications. My main playground includes Laravel, Livewire, PHP, and JavaScript — tools I use to bring agile and intelligent solutions to life.<br>🚀 Here on GitHub, you'll find my projects, studies, and small day-to-day creations where I experiment, learn, and continue evolving as a developer.</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DanielVitorio&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielVitorio&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
 
