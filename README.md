@@ -1,4 +1,10 @@
 <div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=DanielVitorio.DanielVitorio&"  />
+</div>
+
+###
+
+<div align="center">
   <img height="" src="https://github.com/DanielVitorio/DanielVitorio/blob/main/.github/banner.png"  />
 </div>
 
@@ -88,5 +94,13 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanielVitorio/DanielVitorio/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanielVitorio/DanielVitorio/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DanielVitorio/DanielVitorio/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
